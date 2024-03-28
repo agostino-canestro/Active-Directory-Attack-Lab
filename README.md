@@ -18,8 +18,9 @@ The Active Directory Home Lab project is designed to provide IT and cybersecurit
 - <b>Windows 10</b>
 - <b>Windows Server 2022</b>
 - <b>Active Directory</b>
+- <b>OracleVM VirtualBox</b>
 - <b>Kali Linux</b>
-- <b>Ubuntu</b>
+- <b>Ubuntu Server</b>
 - <b>Splunk</b>
 
 <h2>Project Walk-through:</h2>
